@@ -166,7 +166,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath1 + "/.settings")
                 shutil.rmtree(tagpath1 + "/.vscode")
                 shutil.rmtree(tagpath1 + "/Debug_FLASH")
-                os.remove(tagpath1 + "/,cproject")
+                os.remove(tagpath1 + "/.cproject")
                 os.remove(tagpath1 + "/.project")
             except:
                 pass
@@ -179,7 +179,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath2 + "/.settings")
                 shutil.rmtree(tagpath2 + "/.vscode")
                 shutil.rmtree(tagpath2 + "/Debug_FLASH")
-                os.remove(tagpath2 + "/,cproject")
+                os.remove(tagpath2 + "/.cproject")
                 os.remove(tagpath2 + "/.project")
             except:
                 pass
@@ -192,7 +192,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath3 + "/.settings")
                 shutil.rmtree(tagpath3 + "/.vscode")
                 shutil.rmtree(tagpath3 + "/Debug_FLASH")
-                os.remove(tagpath3 + "/,cproject")
+                os.remove(tagpath3 + "/.cproject")
                 os.remove(tagpath3 + "/.project")
             except:
                 pass
@@ -205,7 +205,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath4 + "/.settings")
                 shutil.rmtree(tagpath4 + "/.vscode")
                 shutil.rmtree(tagpath4 + "/Debug_FLASH")
-                os.remove(tagpath4 + "/,cproject")
+                os.remove(tagpath4 + "/.cproject")
                 os.remove(tagpath4 + "/.project")
             except:
                 pass
@@ -218,7 +218,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath5 + "/.settings")
                 shutil.rmtree(tagpath5 + "/.vscode")
                 shutil.rmtree(tagpath5 + "/Debug_FLASH")
-                os.remove(tagpath5 + "/,cproject")
+                os.remove(tagpath5 + "/.cproject")
                 os.remove(tagpath5 + "/.project")
             except:
                 pass
@@ -231,7 +231,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath6 + "/.settings")
                 shutil.rmtree(tagpath6 + "/.vscode")
                 shutil.rmtree(tagpath6 + "/Debug_FLASH")
-                os.remove(tagpath6 + "/,cproject")
+                os.remove(tagpath6 + "/.cproject")
                 os.remove(tagpath6 + "/.project")
             except:
                 pass
@@ -244,7 +244,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath7 + "/.settings")
                 shutil.rmtree(tagpath7 + "/.vscode")
                 shutil.rmtree(tagpath7 + "/Debug_FLASH")
-                os.remove(tagpath7 + "/,cproject")
+                os.remove(tagpath7 + "/.cproject")
                 os.remove(tagpath7 + "/.project")
             except:
                 pass
@@ -257,7 +257,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath8 + "/.settings")
                 shutil.rmtree(tagpath8 + "/.vscode")
                 shutil.rmtree(tagpath8 + "/Debug_FLASH")
-                os.remove(tagpath8 + "/,cproject")
+                os.remove(tagpath8 + "/.cproject")
                 os.remove(tagpath8 + "/.project")
             except:
                 pass
@@ -270,7 +270,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath9 + "/.settings")
                 shutil.rmtree(tagpath9 + "/.vscode")
                 shutil.rmtree(tagpath9 + "/Debug_FLASH")
-                os.remove(tagpath9 + "/,cproject")
+                os.remove(tagpath9 + "/.cproject")
                 os.remove(tagpath9 + "/.project")
             except:
                 pass
@@ -283,7 +283,7 @@ class MY_GUI():
                 shutil.rmtree(tagpath10 + "/.settings")
                 shutil.rmtree(tagpath10 + "/.vscode")
                 shutil.rmtree(tagpath10 + "/Debug_FLASH")
-                os.remove(tagpath10 + "/,cproject")
+                os.remove(tagpath10 + "/.cproject")
                 os.remove(tagpath10 + "/.project")
             except:
                 pass
